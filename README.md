@@ -10,17 +10,6 @@
 
 - （美国免备案vps，配置2核2G仅需 `20.98$`≈`145RMB`一年/支持支付宝付款）[👉🏻点我直达](https://my.racknerd.com/aff.php?aff=2745&pid=681)
 
-## 界面尝鲜
-
-【官方unicorn模板】
-![首页.png](https://i.loli.net/2021/09/14/NZIl6s9RXbHwkmA.png)
-
-【luna模板】
-![首页.png](https://i.loli.net/2020/10/24/ElKwJFsQy4a9fZi.png)
-
-【hyper模板】
-![首页.png](https://i.loli.net/2021/01/06/nHCSV5PdJIzT6Gy.png)
-
 ## 安装篇
 
 - [Linux环境安装](https://github.com/assimon/dujiaoka/wiki/linux_install)
